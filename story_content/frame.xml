@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Verifikacia_11.02" />
+              <option name="title_text" value="New_Verifikacia_17.03.2021" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -77,7 +77,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1136,14 +1136,20 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
+      <string id="three_image_items">предметы</string>
+      <string id="three_image_viewed">просмотренного</string>
+      <string id="three_image_of">из</string>
+      <string id="three_image_item">предмет</string>
       <string id="accessible_text">Доступный текст</string>
+      <string id="keyboardshortcuts_lower">Сочетания клавиш на клавиатуре</string>
+      <string id="zoom_to_fit">Приближайте, чтобы подогнать по размеру</string>
       <string id="acc_active">активна</string>
       <string id="alt_key">Alt</string>
       <string id="check_include">Додати до списку</string>
       <string id="clear">Сброс і повернення в меню</string>
       <string id="close">Закрити</string>
       <string id="acc_closed_captions">Закриті підписи. Натисніть клавішу пробілу, щоб включити або вимкнути субтитри.</string>
-      <string id="closed_captions_tip">Субтитры</string>
+      <string id="closed_captions_tip">Переключение субтитров</string>
       <string id="continue">Продовжити</string>
       <string id="continueresponsive">Продовжити</string>
       <string id="ctrl_key">Ctrl</string>
@@ -1190,17 +1196,19 @@
       <string id="acc_previous">назад</string>
       <string id="previous_slide_tip">Предыдущий слайд</string>
       <string id="question_list">Перелік запитань</string>
-      <string id="replay_tip">Повторить слайд</string>
+      <string id="replay_tip">Повторить</string>
       <string id="acc_replay">повтор</string>
       <string id="resources">Ресурси</string>
       <string id="acc_resources">ресурси</string>
       <string id="restart">Почати спочатку</string>
       <string id="resume">Возобновить тест</string>
+      <string id="acc_locked">запер(ла) дверь</string>
       <string id="acc_search_input">пошук</string>
       <string id="search_toggle">Поиск</string>
       <string id="sidebar_toggle">Переключение боковых панелей</string>
       <string id="desktop_start">Начать курс</string>
       <string id="mobile_start">Начать курс</string>
+      <string id="acc_visited">посетил(а)</string>
       <string id="search">Пошук...</string>
       <string id="search_in">Пошук:</string>
       <string id="search_results">Результати пошуку</string>
@@ -1216,7 +1224,6 @@
       <string id="submit_tip">Добавить</string>
       <string id="unmute_tip">Вкл. звук</string>
       <string id="acc_volume">гучність</string>
-      <string id="zoom_to_fit">Приближайте, чтобы подогнать по размеру</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1231,55 +1238,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6XqmT0t7Uwt" displaytext="Main_scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6XqmT0t7Uwt.5eVrQyDmmY0" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.62I7NJozAKH" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6NbMqcg4Uac" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.5lhur4UReEJ" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6QlKxZ69KvU" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6XonNGGOkYn" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.66kEzW7EWrN" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.5tcjjRCbTUu" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6J0sN2Y4vrU" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.5pcIwU1n9N9" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6Ul4Xn9YE0Z" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6OkOFpMnvRu" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6jUPxcZR9RZ" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.5rN0QLoK6j7" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.62WBcn3mDlP" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.61kjuC1hzb8" displaytext="Pick Many" expand="false" type="slide" />
-            <slidelink slideid="_player.6XqmT0t7Uwt.6NJppxSoC39" displaytext="The_End" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6h7HjKf5Zw2" displaytext="Scaning" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6h7HjKf5Zw2.6fes9cYWbpM" displaytext="Pick Many" expand="false" type="slide" />
-            <slidelink slideid="_player.6h7HjKf5Zw2.6jq7eDhE0Jp" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6h7HjKf5Zw2.6nSGdtRSduN" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6h7HjKf5Zw2.5YraI6ssaqU" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.6h7HjKf5Zw2.5fjP7Io30iL" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6h7HjKf5Zw2.5ldvI8h5kyq" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6h7HjKf5Zw2.6l5xCoea22l" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5bNOdLPVkb8" displaytext="Diya" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5bNOdLPVkb8.5mwBaV8Ewk1" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5bNOdLPVkb8.6UL8670x70l" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5bNOdLPVkb8.6IbdZXLW94b" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5bNOdLPVkb8.6SayejYEjEU" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5bNOdLPVkb8.5mqeEVlWW7j" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6Md2nyyF1DP" displaytext="Pos" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6Md2nyyF1DP.6ddzleOOBtl" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Md2nyyF1DP.5iaBR2YHL4n" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Md2nyyF1DP.6oJCqTYev37" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Md2nyyF1DP.6ZSoUhaEfQU" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="_player.6XqmT0t7Uwt.6ngpNolCy1y" displaytext="Results Slide" expand="false" type="slide" />
       </links>
     </outline>
   </nav_data>
